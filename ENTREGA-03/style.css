@@ -1,0 +1,9 @@
+.cardProducto {
+    width: 200px;
+    margin: 5px;
+}
+
+body {
+    color:red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
